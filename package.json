@@ -31,6 +31,7 @@
     "webpack-dev-server": "^4.2.0"
   },
   "dependencies": {
+    "fast-simplex-noise": "^3.2.0",
     "gsap": "^3.7.1"
   }
 }
