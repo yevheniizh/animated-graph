@@ -1,13 +1,7 @@
-## Running on localhost
+## List of tasks
 
-First install dependencies:
+Task name          | Description                                                      
+:------------------|:----------------------------------
+`npm i`            | First install dependencies
+`npm start`        | Start running the app on localhost
 
-```sh
-npm install
-```
-
-## Running
-
-```sh
-npm run start
-```
